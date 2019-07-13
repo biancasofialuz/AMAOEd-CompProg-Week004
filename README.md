@@ -1,2 +1,2 @@
 # AMAOEd-CompProg-Week004
-My Very First C++ Application
+My Very First Java Application
